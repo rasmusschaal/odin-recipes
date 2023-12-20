@@ -1,0 +1,1 @@
+Here i will try to sharpen my HTML chops and know when to commit. FX i will do a commit right now.
